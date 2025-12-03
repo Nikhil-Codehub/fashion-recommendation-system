@@ -1,0 +1,27 @@
+gnore the environment file (Secrets!)
+
+.env
+.env.txt
+
+Ignore Git files
+
+.git
+.gitignore
+
+Ignore Virtual Environments
+
+venv/
+myenv/
+env/
+
+Ignore Python Cache
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Ignore Docker files
+
+Dockerfile
+.dockerignore
